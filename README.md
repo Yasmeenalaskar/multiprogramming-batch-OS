@@ -5,6 +5,7 @@
 2. A hard disk with 2 GB available for user programs. <br/>
 3. A RAM with 192 MB available for user programs. <br/>
 4. A single IO device <br/>
+<br/>
 The simulation covers two features of the operating system:<br/>
 1. Job scheduling: The operating system maintains a single job queue. Job Scheduler follows the
 Smallest Storage Requirement (SSR) policy. <br/>
